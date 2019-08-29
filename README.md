@@ -1,3 +1,11 @@
 # ADR_EMNLP2019
-Training Data Augmentation for Detecting Adverse Drug Reactions inUser-Generated Content
 Reddit dataset for ADR detection wich was created with the help of expert annotators.
+
+If you find this dataset useful in your research, please consider citing:
+
+@inproceedings{ADREMNLP2019,
+Author = {Mesbah, Sepideh and Yang, Jie and Sips, Robert-Jan and Valle Torre, Manuel and Lofi, Christoph and Bozzon, Alessandro and Houben, Geert-Jan},
+Title = {Training Data Augmentation for Detecting Adverse Drug Reactions inUser-Generated Content},
+Booktitle  = {EMNLP},
+Year = {2019}
+}
