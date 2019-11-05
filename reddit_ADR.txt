@@ -198,7 +198,7 @@ post_id	ADR
 8y0d2e	dizziness
 8xzrly	cold fingers
 8xzrly	Peripheral vasculopathy
-8xzrly	Raynaud’s phenomenon
+8xzrly	Raynaudâ€™s phenomenon
 8xzrly	vasoconstriction
 8xyxz9	tolerance
 8xyxz9	sexually obsessed
@@ -366,7 +366,7 @@ post_id	ADR
 8yvbw8	abuse
 8yrfja	withdrawals
 8yrfja	anxiety 
-8yrfja	tightness in my chest. Also have	a headache, the left side of my face is numb, and there's my body feels
+8yrfja	tightness in my chest
 8yrfja	headache
 8yrfja	numb
 8yrfja	depression
@@ -587,7 +587,7 @@ post_id	ADR
 8y45xd	time-fog
 8y3ubd	killing my liver
 8y1png	withdrawal 
-8xuvga	I can’t walk
+8xuvga	I canâ€™t walk
 8zxvsm	tolerance 
 8zbs0w	 respiratory depression
 8yw2w0	withdrawal
