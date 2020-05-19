@@ -1,6 +1,8 @@
 # ADR_EMNLP2019
 Reddit dataset for ADR detection wich was created with the help of expert annotators.
 
+Columns are: post_id(Reddit posts)	ADR(Adverse Drug Reaction)
+
 If you find this dataset useful in your research, please consider citing:
 
 @inproceedings{ADREMNLP2019,
